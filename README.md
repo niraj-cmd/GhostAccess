@@ -17,4 +17,4 @@ A customizable privilege escalation lab with automation scripts and writeups for
 This lab is for educational, non-production use only.
 
 ## 🧑‍💻 Author
-Built and tested by [Your Name or Alias]
+Built and tested by Niraj Ashtaputre
